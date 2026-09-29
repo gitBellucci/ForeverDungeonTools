@@ -1,0 +1,7 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file='DevCache.lua'/>
+	<Script file='Devpanel.lua'/>
+	<Script file='ExportLua.lua'/>
+	<Script file='Schema.lua'/>
+	<Include file='Tests\load_tests.xml'/>
+</Ui>

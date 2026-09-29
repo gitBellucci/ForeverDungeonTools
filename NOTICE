@@ -1,0 +1,19 @@
+ForeverDungeonTools
+===================
+
+ForeverDungeonTools is a modified version of MythicDungeonTools by Nnoggie.
+
+Original project: https://github.com/Nnoggie/MythicDungeonTools
+Original author: Nnoggie
+License: GNU General Public License version 2 (see LICENSE)
+
+This fork adapts MythicDungeonTools for World of Warcraft Classic Forever Beta
+(dungeon planner with Classic / Forever dungeon list, Classic API safety, and
+rebranded slash command /fdt). SavedVariables use FDTDB so retail MythicDungeonToolsDB
+is not overwritten.
+
+Copyright (C) Nnoggie and contributors (MythicDungeonTools)
+Copyright (C) Samy Khayat (ForeverDungeonTools modifications, 2026-09-26)
+
+All modified files carry a change notice and date as required by GPLv2 section 2a.
+This work remains licensed under GPLv2. It is NOT relicensed as MIT or any other license.

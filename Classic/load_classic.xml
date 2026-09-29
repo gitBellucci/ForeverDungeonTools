@@ -1,0 +1,18 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Script file='Ragefire.lua'/>
+    <Script file='WailingCaverns.lua'/>
+    <Script file='Deadmines.lua'/>
+    <Script file='Shadowfang.lua'/>
+    <Script file='Stockade.lua'/>
+    <Script file='Blackfathom.lua'/>
+    <Script file='HallOfThanes.lua'/>
+    <Script file='RuinsOfLordaeron.lua'/>
+    <Script file='ExcavationSite.lua'/>
+    <Script file='CityOfDalaran.lua'/>
+    <Script file='DrownedCity.lua'/>
+    <Script file='KroldokStronghold.lua'/>
+    <Script file='AlcazPrison.lua'/>
+    <Script file='BlackmawHold.lua'/>
+    <Script file='ShapersTerrace.lua'/>
+    <Script file='Seasons.lua'/>
+</Ui>

@@ -1,0 +1,32 @@
+## Interface: 16001, 11509
+## Title: ForeverDungeonTools
+## Author: Nnoggie; Samy Khayat (Forever Classic adaptation)
+## Version: 1.0.0
+## Notes: ForeverDungeonTools is a modified MythicDungeonTools (Nnoggie), GPLv2. Dungeon planner for WoW Classic Forever Beta. Type /fdt
+## Notes-frFR: ForeverDungeonTools est une version modifiee de MythicDungeonTools (Nnoggie), GPLv2. Planificateur de donjons pour Classic Forever. Tapez /fdt
+## OptionalDeps: !!AddonLocale, LibStub, Ace3
+## SavedVariables: FDTDB, FDTTrackerDB
+## LoadSavedVariablesFirst: 1
+## IconTexture: Interface\AddOns\ForeverDungeonTools\Textures\FDTFull
+## X-License: GNU General Public License v2.0
+## X-Original-Author: Nnoggie
+## X-Original-Addon: MythicDungeonTools
+## X-Original-Repo: https://github.com/Nnoggie/MythicDungeonTools
+
+libs\load_core_libs.xml
+BuildCheck.lua
+ClassicCompat.lua
+Core\Bootstrap.lua
+Core\CombatLogging.lua
+Core\MobTracker.lua
+
+libs\load_libs.xml
+MythicDungeonTools_UI\Bootstrap.lua
+locales.xml
+AceGUIWidgets\load_widgets.xml
+Utility.lua
+Core\SavedVariables.lua
+MythicDungeonTools.lua
+Core\Lifecycle.lua
+Modules\load_modules.xml
+Classic\load_classic.xml

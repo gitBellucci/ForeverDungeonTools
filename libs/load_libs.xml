@@ -1,0 +1,9 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<!-- LibStub, CallbackHandler, AceComm and LibDataBroker are loaded by load_core_libs.xml -->
+	<Include file='AceDB-3.0\AceDB-3.0.xml'/>
+	<Include file='AceGUI-3.0\AceGUI-3.0.xml'/>
+	<Script file='AceSerializer-3.0\AceSerializer-3.0.lua'/>
+	<Script file='LibCompress\LibCompress.lua'/>
+	<Script file='LibDeflate\LibDeflate.lua'/>
+	<Include file='LibAsync\LibAsync.xml'/>
+</Ui>
